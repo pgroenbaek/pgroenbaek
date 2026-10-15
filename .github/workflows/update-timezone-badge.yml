@@ -1,0 +1,35 @@
+name: Update DST-aware Odense badge
+
+on:
+  schedule:
+    - cron: "0 3 20-31 3 *" # March DST window (last 12 days of March)
+    - cron: "0 3 20-31 10 *" # October DST window (last 12 days of October)
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate DST-aware timezone badge
+        run: node scripts/update-timezone.js
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add odense-timezone.json
+          git diff --cached --quiet || git commit -m "Update DST badge"
+          git push
