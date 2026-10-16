@@ -63,6 +63,7 @@ PING pgroenbaek (grnbk.io) 56(84) bytes of data.
 
 ---
 
-![Profile Views](https://gitviews.com/user/pgroenbaek.svg?label-color=grey&color=%2358a6ff&base=621)
-
+<picture>
+  <img alt="Profile Views" src="https://gitviews.com/user/pgroenbaek.svg?label-color=grey&color=%2358a6ff&base=621" />
+</picture>
 
