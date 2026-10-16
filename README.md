@@ -21,7 +21,7 @@ const pgroenbaek = {
   alias: "pgroenbaek",
   location: "Odense, Denmark 🇩🇰",
   stacks: ["Python", "TypeScript", "React", "Astro", "Qt"],
-  currently: "Building web-based SaaS/AIaaS solutions for clients.",
+  currently: "Building websites and web-based SaaS solutions for clients.",
   also: "Creating open-source tools for Open Rails content development.",
 };
 ```
