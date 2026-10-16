@@ -63,6 +63,6 @@ PING pgroenbaek (grnbk.io) 56(84) bytes of data.
 
 ---
 
-[![Profile views](https://komarev.com/ghpvc/?username=pgroenbaek&color=58a6ff&style=flat-square&label=profile+views)](https://github.com/pgroenbaek)
+![Profile Views](https://gitviews.com/user/pgroenbaek.svg?label-color=grey&color=%2358a6ff&base=621)
 
 
