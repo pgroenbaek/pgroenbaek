@@ -58,7 +58,7 @@ PING pgroenbaek (grnbk.io) 56(84) bytes of data.
 
 <a href="https://x.com/pgroenbaek" target="_blank"><img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/pgroenbaek" alt="x" /></a>
 <a href="https://keybase.io/pgroenbaek" target="_blank"><img src="https://img.shields.io/badge/Keybase-%231DA1F2?style=flat-square&logo=keybase&logoColor=white" alt="keybase" /></a>
-<a href="mailto:peter%40grnbk.io" target="_blank"><img src="https://img.shields.io/badge/Email-%236D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="contact" /></a>
+<a href="mailto:contact%40grnbk.io" target="_blank"><img src="https://img.shields.io/badge/Email-%236D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="contact" /></a>
 
 
 ---
