@@ -23,6 +23,8 @@ const pgroenbaek = {
   stacks: ["Python", "TypeScript", "React", "Astro", "Qt"],
   currently: "Building websites and web-based SaaS solutions for clients.",
   also: "Creating open-source tools for Open Rails content development.",
+  rant: "Fuck AI agents. If you can't be bothered to think, decide, and
+         engage for yourself, why should I bother engaging back? :^)"
 };
 ```
 
