@@ -25,7 +25,7 @@ const pgroenbaek = {
   also: "Creating open-source tools for Open Rails content development.",
   soapbox:
     "Fuck AI agents. If you can't be bothered to think, decide, and " +
-    "engage for yourself, why should I bother engaging back? :^)",
+    "engage for yourself, why should I bother engaging back? 🤷",
 };
 ```
 
