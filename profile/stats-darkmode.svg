@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Peter Gr&#248;nb&#230;k Andersen&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 14, Total Commits  (last year) : 1238, Total PRs: 62, Total Issues: 67, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 14, Total Commits  (last year) : 1173, Total PRs: 62, Total Issues: 67, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 122.10447901056719;
+        stroke-dashoffset: 122.37172324259157;
       }
     }
   
