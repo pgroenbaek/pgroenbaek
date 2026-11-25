@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=default&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=sdu-sb5-mai&hide=Jupyter%20Notebook%2CJava%2CPHP%2CTeX%2CMDX%2CHTML%2CCSS
+          options: username=${{ github.repository_owner }}&layout=compact&theme=default&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=sdu-sb5-mai&hide=Jupyter%20Notebook%2CJava%2CPHP%2CTeX%2CMDX%2CHTML%2CCSS%2CXML
           path: profile/top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
 
@@ -43,7 +43,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=github_dark_dimmed&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=sdu-sb5-mai&hide=Jupyter%20Notebook%2CJava%2CPHP%2CTeX%2CMDX%2CHTML%2CCSS
+          options: username=${{ github.repository_owner }}&layout=compact&theme=github_dark_dimmed&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=sdu-sb5-mai&hide=Jupyter%20Notebook%2CJava%2CPHP%2CTeX%2CMDX%2CHTML%2CCSS%2CXML
           path: profile/top-langs-darkmode.svg
           token: ${{ secrets.PAT_TOKEN }}
 
